@@ -1,9 +1,15 @@
 main:
 
-  - title: "Conferences"
-    url: ./#conferences
+  - title: "Contact"
+    url: ./#contact 
     right: true 
     
+  - title: "Projects"
+    url: ./#projects
+
+  - title: "Conferences"
+    url: ./#conferences
+     
   - title: "Journals"
     url: ./#publications
 
