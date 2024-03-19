@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><strong>[JAN. 2024]</strong> A paper entitled "Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks" is accepted by IEEE TMC (</Font color="red">CCF-A</Font>).</li>
+<li><strong>[JAN. 2024]</strong> A paper entitled "Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks" is accepted by IEEE TMC (<Font color="red">CCF-A</Font>).</li>
 <li><strong>[JAN. 2024]</strong> A paper entitled "Energy-Efficient Client Sampling for Federated Learning in Heterogeneous Mobile Edge Computing Networks" is accepted by IEEE International Conference on Communications (ICC) (CCF-C).</li>
 <li><strong>[DEC. 2023]</strong> A paper entitled "Collaborative DNNs Inference with Joint Model Partition and Compression in Mobile Edge-Cloud Computing Networks" is accepted by IEEE Wireless Communications and Networking Conference (WCNC) (CCF-C).</li>
 <li><strong>[SEP. 2023]</strong> A paper entitled "Intelligent Content Caching and User Association in Mobile Edge Computing Networks for Smart Cities" is accepted by IEEE TNSE.</li>
