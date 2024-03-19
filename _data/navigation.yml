@@ -1,17 +1,10 @@
 main:
 
-  # - title: "Contact"
-  #   url: ./#contact 
-  #   right: true 
-
   - title: "Conferences"
     url: ./#conferences
 
   - title: "Journals"
     url: ./#publications
-
-  # - title: "Projects"
-  #   url: ./#projects
 
   - title: "News"
     url: ./#news
