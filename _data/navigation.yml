@@ -2,7 +2,8 @@ main:
 
   - title: "Conferences"
     url: ./#conferences
-
+    right: true 
+    
   - title: "Journals"
     url: ./#publications
 
