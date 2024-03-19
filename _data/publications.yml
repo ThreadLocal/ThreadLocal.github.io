@@ -5,7 +5,7 @@ main:
     conference_short: TMC.
     conference: IEEE Transactions on Mobile Computing
     pdf: ./assets/files/TMC-Model_partition.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+    page: https://ieeexplore.ieee.org/document/10413648
     image: ./assets/files/TMC-Model_partition.jpg
     notes: Published
 
@@ -14,7 +14,7 @@ main:
     conference_short: TNSE.
     conference: IEEE Transactions on Network Science and Engineering
     pdf: ./assets/files/TNSE-Caching.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+    page: https://ieeexplore.ieee.org/document/10241976
     image: ./assets/files/TNSE-Caching.jpg
     notes: Published
 
@@ -23,7 +23,7 @@ main:
     conference_short: TNSM.
     conference: IEEE Transactions on Network and Service Management
     pdf: ./assets/files/TNSM-Detection.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+    page: https://ieeexplore.ieee.org/document/10206024
     image: ./assets/files/TNSM-Detection.jpg
     notes: Published
   
