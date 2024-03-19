@@ -10,11 +10,11 @@ I am currently a Ph.D. student of Software Engineering at [ChongQing University]
 
 
 ## Research Interest:
-- **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Model partition:**  Fine-grained model partitioning for distributed inference, joint model partition and compression
+- **Reinforcement learning:** Q-learning, DQN, DDQN, Actor-Critic and DDPG methods
+- **Content Caching** Mobility-aware content caching, LFM-based content caching
+- **Defect Detection** Transfer learning for real-time surface defect detection
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
