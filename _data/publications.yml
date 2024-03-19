@@ -1,32 +1,29 @@
 main:
 
   - title: Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks
-    authors: Hui Li, Xiuhua Li*, Qilin Fan, Qiang He, Xiaofei Wang, and Victor C. M. Leung
+    authors: Hui Li*, Xiuhua Li, Qilin Fan, Qiang He, Xiaofei Wang, and Victor C. M. Leung
     conference_short: TMC.
     conference: IEEE Transactions on Mobile Computing
     pdf: ./assets/files/TMC-Model_partition.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    image: ./assets/files/multi.jpg
+    image: ./assets/files/TMC-Model_partition.jpg
     notes: Published
 
-  - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
-    authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
-    conference_short: Adv. Mater. Interfaces
-    conference: Advanced Materials Interfaces
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+  - title: Intelligent Content Caching and User Association in Mobile Edge Computing Networks for Smart Cities
+    authors: Hui Li*, Xiuhua Li, Chuan Sun, Fang Fang, Qilin Fan, Xiaofei Wang, and Victor C. M. Leung,
+    conference_short: TNSE.
+    conference: IEEE Transactions on Network Science and Engineering
+    pdf: ./assets/files/TNSE-Caching.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/magnetoionic.txt
-    image: ./assets/files/admi202270196-gra-0001-m.jpg
+    image: ./assets/files/TNSE-Caching.jpg
     notes: Published
 
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
-    bibtex: ./assets/files/flexible.txt
-    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+ - title: Transfer Learning for Real-Time Surface Defect Detection with Multi-Access Edge-Cloud Computing Networks
+    authors: Hui Li*, Xiuhua Li, Qilin Fan, Qingyu Xiong, Xiaofei Wang, and Victor C. M. Leung
+    conference_short: TNSM.
+    conference: IEEE Transactions on Network and Service Management
+    pdf: ./assets/files/TNSM-Detection.pdf
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+    image: ./assets/files/TNSM-Detection.jpg
     notes: Published
-
   
