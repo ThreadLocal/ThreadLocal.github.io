@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/TMC-Model_partition.pdf
     page: https://ieeexplore.ieee.org/document/10413648
     image: ./assets/files/TMC-Model_partition.jpg
-    notes: Published
+    notes: Published(CCF-A)
 
   - title: Intelligent Content Caching and User Association in Mobile Edge Computing Networks for Smart Cities
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Chuan Sun, Fang Fang, Qilin Fan, Xiaofei Wang, and Victor C. M. Leung
@@ -16,7 +16,7 @@ main:
     pdf:  ./assets/files/TNSE-Caching.pdf
     page: https://ieeexplore.ieee.org/document/10241976
     image: ./assets/files/TNSE_Caching.jpg
-    notes: Published
+    notes: Published(JCR-1)
 
   - title: Transfer Learning for Real-Time Surface Defect Detection with Multi-Access Edge-Cloud Computing Networks
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan, Qingyu Xiong, Xiaofei Wang, and Victor C. M. Leung
@@ -25,4 +25,4 @@ main:
     pdf: ./assets/files/TNSM-Detection.pdf
     page: https://ieeexplore.ieee.org/document/10206024
     image: ./assets/files/TNSM_Detection.png
-    notes: Published
+    notes: Published(JCR-1)
