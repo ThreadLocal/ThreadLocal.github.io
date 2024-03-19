@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Ph.D. student of Software Engineering at [ChongQing University](https://www.cqu.edu.cn/). My research involves edge intelligence (model partition), reinforcement learning for edge caching and computing offloading at defect detection at multi-access edge-cloud computing networks.
+I am currently a Ph.D. student of Software Engineering at [ChongQing University](https://www.cqu.edu.cn/). My research involves edge intelligence (model partition and model compression), reinforcement learning for edge caching and computing offloading, and defect detection at multi-access edge-cloud computing networks.
 
 
 ## Research Interest:
