@@ -6,7 +6,7 @@ main:
     conference: IEEE Transactions on Mobile Computing
     pdf: ./assets/files/TMC-Model_partition.pdf
     image: ./assets/files/TMC-Model_partition.jpg
-    notes: Published1
+    notes: Published
 
   - title: Intelligent Content Caching and User Association in Mobile Edge Computing Networks for Smart Cities
     authors: Hui Li*, Xiuhua Li, Chuan Sun, Fang Fang, Qilin Fan, Xiaofei Wang, and Victor C. M. Leung,
