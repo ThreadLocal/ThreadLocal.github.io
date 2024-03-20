@@ -3,7 +3,7 @@ main:
   - title: Mobility-Aware Content Caching and User Association for Ultra-Dense Mobile Edge Computing Networks
     authors: <strong>Hui Li*</strong>, Chuan Sun, Xiuhua Li, Qingyu Xiong, Junhao Wen, Xiaofei Wang, and Victor C. M. Leung,
     conference_short: GLOBECOM
-    conference: IEEE Global Communications Conference
+    conference: IEEE Global Communications Conference(CCF-C)
     pdf: ./assets/GLOBECOM2020_Caching.pdf
     web: https://ieeexplore.ieee.org/document/9348257
     image: ./assets/files/GLOBECOM2020_Caching.jpg
@@ -12,7 +12,7 @@ main:
   - title: Energy-Efficient Client Sampling for Federated Learning in Heterogeneous Mobile Edge Computing Networks
     authors: Jian Tang, Xiuhua Li, <strong>Hui Li*</strong>, Min Xiong, Xiaofei Wang, and Victor C. M. Leung
     conference_short: ICC
-    conference: IEEE International Conference on Communications
+    conference: IEEE International Conference on Communications(CCF-C)
     pdf: ./assets/ICC2024_FL.pdf
     web: https://icc2024.ieee-icc.org/
     image: ./assets/files/ICC2024_FL.jpg
@@ -21,7 +21,7 @@ main:
   - title: Collaborative DNNs Inference with Joint Model Partition and Compression in Mobile Edge-Cloud Computing Networks
     authors: Yaxin Tang, Xiuhua Li, <strong>Hui Li*</strong>, Zhengyi Yang, Xiaofei Wang, and Victor C. M. Leung
     conference_short: WCNC
-    conference: IEEE Wireless Communications and Networking Conference
+    conference: IEEE Wireless Communications and Networking Conference(CCF-C)
     pdf: ./assets/WCNC2024_Joint.pdf
     web: https://wcnc2024.ieee-wcnc.org/
     image: ./assets/files/WCNC2024_Joint.jpg
@@ -30,7 +30,7 @@ main:
   - title: Energy-Efficient Dynamic Asynchronous Federated Learning in Mobile Edge Computing Networks
     authors: Guozheng Xu, Xiuhua Li, <strong>Hui Li*</strong>, Qilin Fan, Xiaofei Wang, and Victor C. M. Leung
     conference_short: ICC
-    conference: IEEE International Conference on Communications
+    conference: IEEE International Conference on Communications(CCF-C)
     pdf: ./assets/ICC2023_FL.pdf
     web: https://ieeexplore.ieee.org/document/10278887
     image: ./assets/files/ICC2023_FL.jpg
@@ -39,7 +39,7 @@ main:
   - title: Energy-Time Efficient Task Offloading for Mobile Edge Computing in Hot-Spot Scenarios
     authors: Fanfan Wu, Xiuhua Li, <strong>Hui Li*</strong>, Qilin Fan, Linquan Zhu, Xiaofei Wang, and Victor C. M. Leung
     conference_short: ICC
-    conference: IEEE International Conference on Communications
+    conference: IEEE International Conference on Communications(CCF-C)
     pdf: ./assets/ICC2021_Offloading.pdf
     web: https://ieeexplore.ieee.org/document/9500358
     image: ./assets/files/ICC2021_Offloading.jpg
@@ -48,7 +48,7 @@ main:
   - title: Task Offloading for End-Edge-Cloud Orchestrated Computing in Mobile Networks
     authors: Chuan Sun, <strong>Hui Li*</strong>, Xiuhua Li, Junhao Wen, Qingyu Xiong, Xiaofei Wang, and Victor C.M. Leung
     conference_short: WCNC
-    conference: IEEE Wireless Communications and Networking Conference
+    conference: IEEE Wireless Communications and Networking Conference(CCF-C)
     pdf: ./assets/WCNC2020_Offloading.pdf
     web: https://ieeexplore.ieee.org/abstract/document/9120496
     image: ./assets/files/WCNC2020_Offloading.jpg
