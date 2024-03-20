@@ -24,7 +24,7 @@ main:
     conference: IEEE Wireless Communications and Networking Conference
     pdf: ./assets/WCNC2024_Joint.pdf
     web: https://wcnc2024.ieee-wcnc.org/
-    image: ./assets/files/WCNC2024_Joint.JPG
+    image: ./assets/files/WCNC2024_Joint.jpg
     notes: Accepted
 
   - title: Energy-Efficient Dynamic Asynchronous Federated Learning in Mobile Edge Computing Networks
