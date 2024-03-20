@@ -30,7 +30,7 @@ main:
   - title: 边缘计算助力工业互联网：架构、应用与挑战
     authors: <strong>李辉*</strong>，李秀华，熊庆宇，文俊浩，程路熙，邢镔
     conference_short: CS
-    conference: 计算机科学
+    conference: 计算机科学(CCF-B)
     pdf: ./assets/files/CS_IIoT.pdf
     page: https://www.jsjkx.com/CN/10.11896/jsjkx.200900150
     image: ./assets/files/CS_IIoT.jpg
@@ -39,7 +39,7 @@ main:
   - title: 大数据时代下车联网安全加密认证技术研究
     authors: 宋涛，李秀华，<strong>李辉*</strong>，文俊浩，熊庆宇，陈杰
     conference_short: CS
-    conference: 计算机科学
+    conference: 计算机科学(CCF-B)
     pdf: ./assets/files/CS_IoV.pdf
     page: https://www.jsjkx.com/CN/10.11896/jsjkx.210400112
     image: ./assets/files/CS_IoV.jpg
