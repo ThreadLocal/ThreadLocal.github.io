@@ -1,53 +1,21 @@
-<h1 id="projects"></h1>
+<h1 id="news"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Projects<temp style="font-size:15px;"></temp></h2>
+<h2 style="margin: 30px 0px 10px;">News</h2>
 
-<div class="publications">
-<ol class="bibliography">
+<ul>
 
-{% for link in site.data.projects.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-            <abbr class="badge">{{ link.project_short }}</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.web }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="author">{{ link.abstract }}</div>
-      <div class="periodical"><em>{{ link.project }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.web %} 
-      <a href="{{ link.web }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      {% endif %}
-      {% if link.notes %}
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
+<li><strong>[JAN. 2024]</strong> A paper entitled "Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks" is accepted by IEEE TMC (<Font color="red">CCF-A</Font>).</li>
+<li><strong>[JAN. 2024]</strong> A paper entitled "Energy-Efficient Client Sampling for Federated Learning in Heterogeneous Mobile Edge Computing Networks" is accepted by IEEE International Conference on Communications (ICC) (CCF-C).</li>
+<li><strong>[DEC. 2023]</strong> A paper entitled "Collaborative DNNs Inference with Joint Model Partition and Compression in Mobile Edge-Cloud Computing Networks" is accepted by IEEE Wireless Communications and Networking Conference (WCNC) (CCF-C).</li>
+<li><strong>[SEP. 2023]</strong> A paper entitled "Intelligent Content Caching and User Association in Mobile Edge Computing Networks for Smart Cities" is accepted by IEEE TNSE(<Font color="red">JCR-1</Font>).</li>
+<li><strong>[JUL. 2023]</strong> A paper entitled "Transfer Learning for Real-Time Surface Defect Detection with Multi-Access Edge-Cloud Computing Networks" is accepted by IEEE TNSM(<Font color="red">JCR-1</Font>).</li>
+<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
+<div id="newsmore" style="display:none">
+<li><strong>[JAN. 2023]</strong> A paper entitled "Energy-Efficient Dynamic Asynchronous Federated Learning in Mobile Edge Computing Networks" is accepted by IEEE International Conference on Communications (ICC) (CCF-C).</li>
+<li><strong>[JAN. 2022]</strong> A paper entitled "Energy-Time Efficient Task Offloading for Mobile Edge Computing in Hot-Spot Scenarios" is accepted by IEEE International Conference on Communications (ICC) (CCF-C).</li>
+<li><strong>[JUN. 2021]</strong> 论文"大数据时代下车联网安全加密认证技术研究"被 计算机科学 期刊全文录用 (CCF-B).</li>
+<li><strong>[JAN 2021]</strong> 论文"边缘计算助力工业互联网：架构、应用与挑战"被 计算机科学 期刊全文录用 (CCF-B).</li>
+<li><strong>[AUG. 2020]</strong> A paper entitled "Mobility-Aware Content Caching and User Association for Ultra-Dense Mobile Edge Computing Networks" is accepted by IEEE GLOBECOM (CCF-C).</li>
+<li><strong>[DEC. 2019]</strong> A paper entitled "Task Offloading for End-Edge-Cloud Orchestrated Computing in Mobile Networks" is accepted by IEEE Wireless Communications and Networking Conference (WCNC) (CCF-C).</li>
 </div>
-</li>
-
-<br>
-
-{% endfor %}
-
-
+</ul>
