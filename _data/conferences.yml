@@ -31,9 +31,9 @@ main:
     authors: Guozheng Xu, Xiuhua Li, <strong>Hui Li*</strong>, Qilin Fan, Xiaofei Wang, and Victor C. M. Leung
     conference_short: ICC
     conference: IEEE International Conference on Communications
-    pdf: ./assets/ICC2022_FL.pdf
+    pdf: ./assets/ICC2023_FL.pdf
     web: https://ieeexplore.ieee.org/document/10278887
-    image: ./assets/files/ICC2022_FL.jpg
+    image: ./assets/files/ICC2023_FL.jpg
     notes: Accepted
     
   - title: Energy-Time Efficient Task Offloading for Mobile Edge Computing in Hot-Spot Scenarios
