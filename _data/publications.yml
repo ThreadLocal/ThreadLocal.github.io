@@ -49,7 +49,7 @@ main:
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Chuan Sun, Xiaofei Wang, and Victor C. M. Leung
     conference_short: COMST
     conference: IEEE Communications Surveys & Tutorials (JCR-1,top,IEEE最高影响因子)
-    pdf: ./assets/files/COMST-LLMs.pdf
+    pdf: ./assets/files/COMST_LLMs.pdf
     page: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739
-    image: ./assets/files/COMST-LLMs.jpg
+    image: ./assets/files/COMST_LLMs.jpg
     notes: Under Review
