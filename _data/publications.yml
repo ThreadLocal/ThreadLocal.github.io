@@ -45,7 +45,7 @@ main:
     image: ./assets/files/CS_IoV.jpg
     notes: Published
     
-  - title: Edge-Enhanced Intelligence: A Comprehensive Survey of Large Language Models and Edge-Cloud Computing Synergy
+  - title: Edge-Enhanced Intelligence A Comprehensive Survey of Large Language Models and Edge-Cloud Computing Synergy
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Chuan Sun, Xiaofei Wang, and Victor C. M. Leung
     conference_short: COMST
     conference: IEEE Communications Surveys & Tutorials (JCR-1,top,IEEE最高影响因子)
