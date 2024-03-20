@@ -12,7 +12,7 @@ main:
   - title: Intelligent Content Caching and User Association in Mobile Edge Computing Networks for Smart Cities
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Chuan Sun, Fang Fang, Qilin Fan, Xiaofei Wang, and Victor C. M. Leung
     conference_short: TNSE
-    conference: IEEE Transactions on Network Science and Engineering(JCR-1)
+    conference: IEEE Transactions on Network Science and Engineering(JCR-1,top)
     pdf:  ./assets/files/TNSE-Caching.pdf
     page: https://ieeexplore.ieee.org/document/10241976
     image: ./assets/files/TNSE_Caching.jpg
@@ -21,8 +21,35 @@ main:
   - title: Transfer Learning for Real-Time Surface Defect Detection with Multi-Access Edge-Cloud Computing Networks
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan, Qingyu Xiong, Xiaofei Wang, and Victor C. M. Leung
     conference_short: TNSM
-    conference: IEEE Transactions on Network and Service Management(JCR-1)
+    conference: IEEE Transactions on Network and Service Management(JCR-1,top)
     pdf: ./assets/files/TNSM-Detection.pdf
     page: https://ieeexplore.ieee.org/document/10206024
     image: ./assets/files/TNSM_Detection.png
     notes: Published
+    
+  - title: 边缘计算助力工业互联网：架构、应用与挑战
+    authors: <strong>李辉*</strong>，李秀华，熊庆宇，文俊浩，程路熙，邢镔
+    conference_short: *
+    conference: 计算机科学
+    pdf: ./assets/files/CS_IIoT.pdf
+    page: https://ieeexplore.ieee.org/document/10206024
+    image: ./assets/files/CS_IIoT.jpg
+    notes: Published
+    
+  - title: 大数据时代下车联网安全加密认证技术研究
+    authors: 宋涛，李秀华，<strong>李辉*</strong>，文俊浩，熊庆宇，陈杰
+    conference_short: *
+    conference: 计算机科学
+    pdf: ./assets/files/CS_IoV.pdf
+    page: https://ieeexplore.ieee.org/document/10206024
+    image: ./assets/files/CS_IoV.jpg
+    notes: Published
+    
+  - title: Edge-Enhanced Intelligence: A Comprehensive Survey of Large Language Models and Edge-Cloud Computing Synergy
+    authors: <strong>Hui Li*</strong>, Xiuhua Li, Chuan Sun, Xiaofei Wang, and Victor C. M. Leung
+    conference_short: COMST
+    conference: IEEE Communications Surveys & Tutorials(JCR-1,top,IEEE最高影响因子)
+    pdf: ./assets/files/COMST-LLMs.pdf
+    page: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739
+    image: ./assets/files/COMST-LLMs.jpg
+    notes: Under Review
