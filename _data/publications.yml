@@ -32,7 +32,7 @@ main:
     conference_short: CS
     conference: 计算机科学
     pdf: ./assets/files/CS_IIoT.pdf
-    page: https://ieeexplore.ieee.org/document/10206024
+    page: https://www.jsjkx.com/CN/10.11896/jsjkx.200900150
     image: ./assets/files/CS_IIoT.jpg
     notes: Published
     
@@ -41,11 +41,11 @@ main:
     conference_short: CS
     conference: 计算机科学
     pdf: ./assets/files/CS_IoV.pdf
-    page: https://ieeexplore.ieee.org/document/10206024
+    page: https://www.jsjkx.com/CN/10.11896/jsjkx.210400112
     image: ./assets/files/CS_IoV.jpg
     notes: Published
     
-  - title: EDGE
+  - title: Edge-Enhanced Intelligence: A Comprehensive Survey of Large Language Models and Edge-Cloud Computing Synergy
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Chuan Sun, Xiaofei Wang, and Victor C. M. Leung
     conference_short: COMST
     conference: IEEE Communications Surveys & Tutorials (JCR-1,top,IEEE最高影响因子)
