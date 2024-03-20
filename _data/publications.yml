@@ -2,7 +2,7 @@ main:
 
   - title: Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan, Qiang He, Xiaofei Wang, and Victor C. M. Leung
-    conference_short: TMC.
+    conference_short: TMC
     conference: IEEE Transactions on Mobile Computing(CCF-A)
     pdf: ./assets/files/TMC-Model_partition.pdf
     page: https://ieeexplore.ieee.org/document/10413648
@@ -20,7 +20,7 @@ main:
 
   - title: Transfer Learning for Real-Time Surface Defect Detection with Multi-Access Edge-Cloud Computing Networks
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan, Qingyu Xiong, Xiaofei Wang, and Victor C. M. Leung
-    conference_short: TNSM.
+    conference_short: TNSM
     conference: IEEE Transactions on Network and Service Management(JCR-1)
     pdf: ./assets/files/TNSM-Detection.pdf
     page: https://ieeexplore.ieee.org/document/10206024
