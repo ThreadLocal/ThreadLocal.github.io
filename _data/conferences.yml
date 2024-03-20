@@ -6,7 +6,7 @@ main:
     conference: IEEE Global Communications Conference
     pdf: ./assets/GLOBECOM2020_Caching.pdf
     web: https://ieeexplore.ieee.org/document/9348257
-    image: ./assets/GLOBECOM2020_Caching.jpg
+    image: ./assets/files/GLOBECOM2020_Caching.jpg
     notes: Accepted
 
   - title: Energy-Efficient Client Sampling for Federated Learning in Heterogeneous Mobile Edge Computing Networks
@@ -15,7 +15,7 @@ main:
     conference: IEEE International Conference on Communications
     pdf: ./assets/ICC2024_FL.pdf
     web: https://icc2024.ieee-icc.org/
-    image: ./assets/ICC2024_FL.jpg
+    image: ./assets/files/ICC2024_FL.jpg
     notes: Accepted
 
   - title: Collaborative DNNs Inference with Joint Model Partition and Compression in Mobile Edge-Cloud Computing Networks
@@ -24,7 +24,7 @@ main:
     conference: IEEE Wireless Communications and Networking Conference
     pdf: ./assets/WCNC2024_Joint.pdf
     web: https://wcnc2024.ieee-wcnc.org/
-    image: ./assets/WCNC2024_Joint.jpg
+    image: ./assets/files/WCNC2024_Joint.jpg
     notes: Accepted
 
   - title: Energy-Efficient Dynamic Asynchronous Federated Learning in Mobile Edge Computing Networks
@@ -33,7 +33,7 @@ main:
     conference: IEEE International Conference on Communications
     pdf: ./assets/ICC2022_FL.pdf
     web: https://ieeexplore.ieee.org/document/10278887
-    image: ./assets/ICC2022_FL.jpg
+    image: ./assets/files/ICC2022_FL.jpg
     notes: Accepted
     
   - title: Energy-Time Efficient Task Offloading for Mobile Edge Computing in Hot-Spot Scenarios
@@ -42,7 +42,7 @@ main:
     conference: IEEE International Conference on Communications
     pdf: ./assets/ICC2021_Offloading.pdf
     web: https://ieeexplore.ieee.org/document/9500358
-    image: ./assets/ICC2021_Offloading.jpg
+    image: ./assets/files/ICC2021_Offloading.jpg
     notes: Accepted
 
   - title: Task Offloading for End-Edge-Cloud Orchestrated Computing in Mobile Networks
@@ -51,5 +51,5 @@ main:
     conference: IEEE Wireless Communications and Networking Conference
     pdf: ./assets/WCNC2020_Offloading.pdf
     web: https://ieeexplore.ieee.org/abstract/document/9120496
-    image: ./assets/WCNC2020_Offloading.jpg
+    image: ./assets/files/WCNC2020_Offloading.jpg
     notes: Accepted
