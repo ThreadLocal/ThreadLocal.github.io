@@ -1,59 +1,55 @@
 main:
-  - title: BeMAGIC Final Event - Post Event
-    authors: Song Chen
-    conference_short: BeMAGIC
-    conference: BeMAGIC Final Event
-    pdf: https://bemagic-etn.eu/images/files2023/BeMAGIC%20Final%20Event%20information%201.pdf
-    web: https://bemagic-etn.eu/news/81-bemagic-final-event-post-event
-    image: ./assets/img/autova.png
-    notes: 
 
-  - title: Reversible and Non-volatile Magneto-ionic effect in W-CoFeB-MgO-HfO2 ultra-thin films with Perpendicular Anisotropy
-    authors: Song Chen, Elmer Monteblanco, Rohit Pachat, Liza Herrera Diez, Dafiné Ravelosona
-    conference_short: JEMS
-    conference: 13th Joint European Magnetic Symposia
-    pdf: ./assets/files/JEMS2023_Song.pdf
-    web: https://www.jems2023.es/
-    image: ./assets/files/JEMS2023_2.jpg
+  - title: Mobility-Aware Content Caching and User Association for Ultra-Dense Mobile Edge Computing Networks
+    authors: </strong>Hui Li*</strong>, Chuan Sun, Xiuhua Li, Qingyu Xiong, Junhao Wen, Xiaofei Wang, and Victor C. M. Leung,
+    conference_short: GLOBECOM
+    conference: IEEE Global Communications Conference
+    pdf: ./assets/GLOBECOM2020_Caching.pdf
+    web: https://bemagic-etn.eu/news/81-bemagic-final-event-post-event
+    image: ./assets/GLOBECOM2020_Caching.jpg
     notes: Accepted
 
-  - title: BeMAGIC CONFERENCE IN TORINO – POST EVENT
-    conference_short: BeMAGIC
-    conference: BeMAGIC CONFERENCE IN TORINO
-    abstract: The BeMAGIC conference in Torino, entitled “Beyond Magnetoelectric Materials”, was successfully organized by the network ESRs (Early Stage Researchers). This event took place on 12-15 June 2023 at the Starhotel Majestic, Torino, Italy. The programme included 15 top-class experts in the magnetoelectric field, who delivered lectures on the following topics&#58; multiferroics, surface charging, magnetoionics and applications in healthcare, energy efficiency and cybersecurity.
-    pdf: https://bemagic-etn.eu/images/files2023/BeMAGIC_Conference_Torino_2023.pdf
-    web: https://bemagic-etn.eu/news/79-bemagic-conference-in-torino-2023-post-event
-    image: ./assets/img/Group_picture.jpg
+  - title: Energy-Efficient Client Sampling for Federated Learning in Heterogeneous Mobile Edge Computing Networks
+    authors: Jian Tang, Xiuhua Li, </strong>Hui Li*</strong>, Min Xiong, Xiaofei Wang, and Victor C. M. Leung
+    conference_short: ICC
+    conference: IEEE International Conference on Communications
+    pdf: ./assets/ICC2024_FL.pdf
+    web: https://bemagic-etn.eu/news/81-bemagic-final-event-post-event
+    image: ./assets/ICC2024_FL.jpg
+    notes: Accepted
 
-  - title: BeMAGIC Winter School - ETH Zürich
-    conference_short: BeMAGIC
-    conference:  BeMAGIC Winter School&#58; Magnetoelectricity in biomedicine healthcare for the 21st century ETH Zürich
-    abstract: The BeMAGIC Winter School, entitled&#58; “Magnetoelectricity in biomedicine&#58; healthcare for the 21st century”, took place in Zurich from November 8 to 12, 2021. 
-    #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
-    web: https://bemagic-etn.eu/news/68-bemagic-winter-school-post-event
-    image: ./assets/img/eth.jpg
+  - title: Collaborative DNNs Inference with Joint Model Partition and Compression in Mobile Edge-Cloud Computing Networks
+    authors: Yaxin Tang, Xiuhua Li, </strong>Hui Li*</strong>, Zhengyi Yang, Xiaofei Wang, and Victor C. M. Leung
+    conference_short: WCNC
+    conference: IEEE Wireless Communications and Networking Conference
+    pdf: ./assets/WCNC2024_Joint.pdf
+    web: https://www.jems2023.es/
+    image: ./assets/WCNC2024_Joint.jpg
+    notes: Accepted
 
-  - title: JOINT WORKSHOP BEMAGIC / MAGNEFI AT AALTO UNIVERSITY
-    conference_short: BeMAGIC
-    conference:  BeMAGIC Winter School&#58; Magnetoelectricity in biomedicine healthcare for the 21st century ETH Zürich
-    abstract: The BeMAGIC workshop at AALTO University (Helsinki, Finland), co-organized with the MagnEFi network, took place from 13 to 17 June 2022.  
-    #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
-    web: https://bemagic-etn.eu/news/73-joint-workshop-bemagic-magnefi-at-aalto-university-post-event
-    image: ./assets/img/joint.jpg
+  - title: Energy-Efficient Dynamic Asynchronous Federated Learning in Mobile Edge Computing Networks
+    authors: Guozheng Xu, Xiuhua Li, </strong>Hui Li*</strong>, Qilin Fan, Xiaofei Wang, and Victor C. M. Leung
+    conference_short: ICC
+    conference: IEEE International Conference on Communications
+    pdf: ./assets/ICC2022_FL.pdf
+    web: https://www.jems2023.es/
+    image: ./assets/ICC2022_FL.jpg
+    notes: Accepted
+    
+  - title: Energy-Time Efficient Task Offloading for Mobile Edge Computing in Hot-Spot Scenarios
+    authors: Fanfan Wu, Xiuhua Li, </strong>Hui Li*</strong>, Qilin Fan, Linquan Zhu, Xiaofei Wang, and Victor C. M. Leung
+    conference_short: ICC
+    conference: IEEE International Conference on Communications
+    pdf: ./assets/ICC2021_Offloading.pdf
+    web: https://www.jems2023.es/
+    image: ./assets/ICC2021_Offloading.jpg
+    notes: Accepted
 
-  - title: BeMAGIC Summer School&#58; Setting gateway to academia (UCAM)
-    conference_short: BeMAGIC
-    conference:  BeMAGIC Winter School&#58; Magnetoelectricity in biomedicine healthcare for the 21st century ETH Zürich
-    abstract: The next BeMAGIC workshop, organized by the University of Cambridge, will take place online on 7-9 April 2021 (workshop) and 10-11 May 2021 (training in soft skills).   
-    #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
-    web: https://bemagic-etn.eu/news/62-bemagic-summer-school-post-event
-    image: ./assets/img/Portada-cc58d654.jpg
-
-  - title: BeMAGIC WORKSHOP AT GTECM
-    conference_short: BeMAGIC
-    conference:  BEMAGIC Workshop - Gateway to industry&#58;innovation, entrepreneurship and marketable products using ME technology
-    abstract: The BeMAGIC Workshop at GTECM was successfuly organized in Innsbruck, Austria, from 13 to 16 December 2022.
-    pdf: https://bemagic-etn.eu/images/files2022/BeMagic_Workshop_GTECM_agenda.pdf
-    web: https://bemagic-etn.eu/news/77-bemagic-workshop-at-gtecm-post-event
-    image: ./assets/img/lF0ulCNA.jpeg
-
+  - title: Task Offloading for End-Edge-Cloud Orchestrated Computing in Mobile Networks
+    authors: Chuan Sun, </strong>Hui Li*</strong>, Xiuhua Li, Junhao Wen, Qingyu Xiong, Xiaofei Wang, and Victor C.M. Leung
+    conference_short: WCNC
+    conference: IEEE Wireless Communications and Networking Conference
+    pdf: ./assets/WCNC2020_Offloading.pdf
+    web: https://www.jems2023.es/
+    image: ./assets/WCNC2020_Offloading.jpg
+    notes: Accepted
