@@ -21,6 +21,6 @@ I am currently a Ph.D. student of Software Engineering at [ChongQing University]
 
 {% include_relative _includes/conference.md %}
 
-{% include_relative _includes/patents.md %}
+{% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
