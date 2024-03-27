@@ -8,8 +8,7 @@ layout: homepage
 
 I am currently a Ph.D. student of Software Engineering at [ChongQing University](https://www.cqu.edu.cn/). My research involves edge intelligence (model partition and model compression), reinforcement learning for edge caching and computing offloading, and defect detection at multi-access edge-cloud computing networks.
 
-
-## Research Interest:
+<h2 style="margin: 60px 0px 10px;">Research Interest</h2>
 - **Model Partition:**  Fine-grained model partitioning for distributed inference, joint model partition and compression
 - **Reinforcement Learning:** Q-learning, DQN, DDQN, Actor-Critic and DDPG methods
 - **Content Caching:** Mobility-aware content caching, LFM-based content caching
@@ -21,6 +20,6 @@ I am currently a Ph.D. student of Software Engineering at [ChongQing University]
 
 {% include_relative _includes/conference.md %}
 
-{% include_relative _includes/news.md %}
+{% include_relative _includes/patents.md %}
 
 {% include_relative _includes/projects.md %}
