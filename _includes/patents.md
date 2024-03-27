@@ -3,11 +3,11 @@
 <h2 style="margin: 30px 0px 10px;">Patents</h2>
 <div>
 <ul>
-<li><strong>National Natural Science Foundation of China Project (Principal):</strong> Research on Cloud-Edge-Device Collaborative Computing Mechanism Based on Federated Reinforcement Learning, 2024.01-2027.12 (Participation).</li>
-<li><strong>Chongqing Technology Innovation and Application Development Special Major Project:</strong>  Development of a closed-loop core tool chain for autonomous driving data that supports access to massive heterogeneous equipment, 2023.12.10-2026.12.09 (Participation).</li>
-<li><strong>Sichuan Province Regional Innovation Cooperation Project:</strong> Research on intelligent computing methods for large-scale AI tasks under edge-cloud collaboration, 2024.01-2025.12 (Participation).</li>
-<li><strong>Chengdu Regional Science and Technology Innovation Cooperation Project:</strong> Research on edge-cloud collaborative intelligent computing mechanism for large-scale AI tasks, 2023.01-2024.12 (Participation).</li>
-<li><strong>Chongqing Technology Innovation and Application Development Special Key Project:</strong> Research on key technologies for integrated training and integration of smart car AI models, 2023/09-2025/08 (participation).</li>
+<li>李秀华，<strong>李辉</strong>，孙川，文俊浩，熊庆宇，范琪琳，王悦阳，毛玉星，李剑. 一种端-边-云协同计算的任务卸载优化方法. 2019-12-31，中国发明专利，授权号：ZL 201911402857.5</li>
+<li>李秀华，<strong>李辉</strong>，孙川，范琪琳，熊庆宇，文俊浩，毛玉星，李剑. 一种移动边缘计算网络下内容缓存和用户关联优化方法. 2020-09-08，中国发明专利，授权号：ZL202010932408.8</li>
+<li>李秀华，吴凡凡，<strong>李辉</strong>，徐峥辉，明钊，范琪琳，文俊浩，熊庆宇. 一种移动边缘计算系统中任务卸载的成本效率优化系统及方法. 2020-12-19,中国发明专利，授权号：ZL202011595152.2</li>
+<li>宋涛，李秀华，<strong>李辉</strong>，明钊，范琪琳，文俊浩. 一种基于机器学习算法的车载 ECU 安全风险评估系统. 2021-02-04，中国发明专利，授权号：ZL202110156103.7</li>
+<li>程路熙，李秀华，<strong>李辉</strong>，明钊. 一种基于装配式建筑的标识解析系统. 2021-04-26，中国发明专利，授权号：ZL202110454843.9</li>
 </ul>
 </div>
 
