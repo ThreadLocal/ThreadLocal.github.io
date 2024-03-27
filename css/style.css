@@ -5277,7 +5277,7 @@ fieldset[disabled] .button {
   margin-bottom: 0.5714em;
 }
 .content h2:not(:first-child) {
-  margin-top: 1.1428em;
+  margin-top: 0.5714em;
 }
 .content h3 {
   font-size: 1.5em;
