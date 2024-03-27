@@ -12,12 +12,12 @@ main:
      
   - title: "Journals"
     url: ./#publications
-
-  - title: "News"
-    url: ./#news
-
+    
   - title: "Patents"
     url: ./#Patents
+    
+  - title: "News"
+    url: ./#news
 
   - title: "Research Interest"
     url: ./#about-me
