@@ -3,7 +3,7 @@ main:
   - title: Distributed DNN Inference with Fine-grained Model Partitioning in Mobile Edge Computing Networks
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan, Qiang He, Xiaofei Wang, and Victor C. M. Leung
     conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing(CCF-A)
+    conference: IEEE Transactions on Mobile Computing(CCF-A, JCR-1, Top)
     pdf: ./assets/files/TMC-Model_partition.pdf
     page: https://ieeexplore.ieee.org/document/10413648
     image: ./assets/files/TMC-Model_partition.jpg
@@ -12,7 +12,7 @@ main:
   - title: Intelligent Content Caching and User Association in Mobile Edge Computing Networks for Smart Cities
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Chuan Sun, Fang Fang, Qilin Fan, Xiaofei Wang, and Victor C. M. Leung
     conference_short: TNSE
-    conference: IEEE Transactions on Network Science and Engineering(JCR-1,top)
+    conference: IEEE Transactions on Network Science and Engineering(JCR-1, Top)
     pdf:  ./assets/files/TNSE-Caching.pdf
     page: https://ieeexplore.ieee.org/document/10241976
     image: ./assets/files/TNSE_Caching.jpg
@@ -21,7 +21,7 @@ main:
   - title: Transfer Learning for Real-Time Surface Defect Detection with Multi-Access Edge-Cloud Computing Networks
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Qilin Fan, Qingyu Xiong, Xiaofei Wang, and Victor C. M. Leung
     conference_short: TNSM
-    conference: IEEE Transactions on Network and Service Management(JCR-1,top)
+    conference: IEEE Transactions on Network and Service Management(JCR-1, Top)
     pdf: ./assets/files/TNSM-Detection.pdf
     page: https://ieeexplore.ieee.org/document/10206024
     image: ./assets/files/TNSM_Detection.png
@@ -48,7 +48,7 @@ main:
   - title: Edge-Enhanced Intelligence A Comprehensive Survey of Large Language Models and Edge-Cloud Computing Synergy
     authors: <strong>Hui Li*</strong>, Xiuhua Li, Chuan Sun, Xiaofei Wang, and Victor C. M. Leung
     conference_short: COMST
-    conference: IEEE Communications Surveys & Tutorials (JCR-1,top,IEEE最高影响因子)
+    conference: IEEE Communications Surveys & Tutorials (JCR-1, Top,IEEE最高影响因子)
     pdf: ./assets/files/COMST_LLMs.pdf
     page: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739
     image: ./assets/files/COMST_LLMs.jpg
